@@ -44,7 +44,7 @@ h1 {
 
 }
 
-.city {
+.cities {
     display: flex;
     margin: 10px 0;
     justify-content: space-between;
@@ -53,7 +53,7 @@ h1 {
     
 }
 
-.city:last-child {
+.cities:last-child {
     border:none;
 }
 
